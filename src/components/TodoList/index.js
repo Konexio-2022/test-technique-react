@@ -9,11 +9,11 @@ const TodoList = () => {
 
   const handleDelete = (id) => {
     // Fix an ability to delete task
-  }
+  };
 
   const toggleCheck = (id) => {
     // Fix an ability to toggle task
-  }
+  };
 
   const handleKeyUp = (e, id) => {
     if (e.keyCode === 13) {

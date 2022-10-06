@@ -9,13 +9,13 @@ const TodoForm = () => {
 
   const handleAddTodo = () => {
     // Fin an ability to add new task
-  }
+  };
 
   const handleKeyUp = (e) => {
     if (e.keyCode === 13) {
-      handleAddTodo()
+      handleAddTodo();
     }
-  }
+  };
 
   return (
     <div className="todo-form">
