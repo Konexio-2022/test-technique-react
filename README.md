@@ -8,7 +8,7 @@ Créer une branche `test`, c'est sur cette branche que vous allez coder. Une foi
 
 2. #### Etapes a faire dans l'ordre:
 
-- Fixer l'affichage des tâches définies dans `todo.json`
+- Afficher les tâches définies dans `todo.json`
 - Fixer le layout, les tâches devraient s'afficher en colonnes
 - Fixer l'ajout d'une tâche / reset du form apres l'ajout de la tache
 - Fixer le toggle de la checkbox d'une tâche (au click, cocher ou décocher la tache)
