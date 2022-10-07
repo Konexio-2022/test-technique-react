@@ -13,3 +13,6 @@ Créer une branche `test`, c'est sur cette branche que vous allez coder. Une foi
 - Fixer l'ajout d'une tâche / reset du form apres l'ajout de la tache
 - Fixer le toggle de la checkbox d'une tâche (au click, cocher ou décocher la tache)
 - Fixer la suppression d'une tâche
+
+
+A la fin, envoyez la pull Request au formateur
